@@ -83,7 +83,7 @@ class AddUserPage extends StatelessWidget {
                 child: ElevatedButton(
                   style: ElevatedButton.styleFrom(
                     backgroundColor: Colors.black,
-                    foregroundColor: Colors.white,
+                    foregroundColor: Colors.yellow,
                     shape: const StadiumBorder(),
                   ),
                   onPressed: () {
